@@ -6,13 +6,6 @@ Hi! I am a full-stack developer having more than 8+ years of experience in build
 I'm a full stack, polyglot developer who is constantly learning how to make web/hybrid apps faster, leaner, and perfectly designed. <br/>
 I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so far.
 
-
-  <img align="right" alt="GIF" src="https://github.com/super1114/super1114/blob/main/github.png?raw=true" width="450" height="320" />
-  
-- 💼 Do reach, [email](mailto:milan.pavkov.po@gmail.com) :)
-- <a href="https://linkedin.com/in/milan-pavkov/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="milan-pavkov" height="20" width="20"/></a>    Connect via Linkedin!
-- 💬 Ask me about anything, I am happy to help;
-
 **Languages and Tools:**  
 
 <p align="left">
@@ -33,16 +26,6 @@ I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so 
     <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
     </p>
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [You know you needed this apps for your phone?](https://milan-pavkov.web.app/#blog)
-- [What programmers do when things go in the wrong way](https://milan-pavkov.web.app/#blog)
-- [What to do after writing all your CSS?](https://milan-pavkov.web.app/#blog)
-<!-- BLOG-POST-LIST:END -->
-
-
-
-
 ## Main Skills
 
 
@@ -57,6 +40,25 @@ I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
+
+
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Must have apps for your phone!](https://william-simic.web.app/#blog)
+- [Start programming and don't get mad in the process](https://william-simic.web.app/#blog)
+- [CSS oriented programming](https://william-simic.web.app/#blog)
+<!-- BLOG-POST-LIST:END -->
+
+
+ <img align="right" alt="GIF" src="https://github.com/super1114/super1114/blob/main/github.png?raw=true" width="450" height="320" />
+  
+- 💼 Do reach, [email](mailto:william.simic.w@gmail.com) :)
+- <a href="https://linkedin.com/in/william-simic-w" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="william-simic" height="20" width="20"/></a>    Connect via Linkedin!
+- 💬 Ask me about anything, I am happy to help;
+
+
+
 
 
 
