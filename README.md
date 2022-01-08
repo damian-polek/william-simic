@@ -42,19 +42,19 @@ I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 
+ <img align="right" alt="GIF" src="https://github.com/super1114/super1114/blob/main/github.png?raw=true" width="450" height="320" />
+  
+- 💼 Do reach, [email](mailto:william.simic.w@gmail.com) :)
+- <a href="https://linkedin.com/in/william-simic-w" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="william-simic" height="20" width="20"/></a>    Connect via Linkedin!
+- 💬 Ask me about anything, I am happy to help;
+
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LISTS:START -->
 - [Must have apps for your phone!](https://william-simic.web.app/#blog)
 - [Start programming and don't get mad in the process](https://william-simic.web.app/#blog)
 - [CSS oriented programming](https://william-simic.web.app/#blog)
 <!-- BLOG-POST-LIST:END -->
-
-
- <img align="right" alt="GIF" src="https://github.com/super1114/super1114/blob/main/github.png?raw=true" width="450" height="320" />
-  
-- 💼 Do reach, [email](mailto:william.simic.w@gmail.com) :)
-- <a href="https://linkedin.com/in/william-simic-w" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="william-simic" height="20" width="20"/></a>    Connect via Linkedin!
-- 💬 Ask me about anything, I am happy to help;
 
 
 
