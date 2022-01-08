@@ -42,9 +42,8 @@ I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 
-
 📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LISTS:START -->
 - [Must have apps for your phone!](https://william-simic.web.app/#blog)
 - [Start programming and don't get mad in the process](https://william-simic.web.app/#blog)
 - [CSS oriented programming](https://william-simic.web.app/#blog)
